@@ -1,4 +1,4 @@
-# README Generator
+# Team Profile 
   ![Badge for GitHub commit activity](https://img.shields.io/github/commit-activity/w/jazminejose/teamProfile?style=for-the-badge)
 
 ## Table of Content(s)
