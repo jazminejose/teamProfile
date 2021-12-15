@@ -14,7 +14,7 @@
 ## Description
 The Team Profile project generates a Software Engineering Team using node CLI. The user is prompted with questions regarding information about the team they would like to build.
 
-Walkthrough Video: [Screencastify](https://user-images.githubusercontent.com/92974218/146160996-0239a159-2d5e-449f-892d-339d88852add.mp4
+Walkthrough Video: [Screencastify](https://user-images.githubusercontent.com/92974218/146162646-b46dc085-d8d3-4ea8-8d03-9cb0af651bc7.mp4
 )
 
 <img src="https://user-images.githubusercontent.com/92974218/145670167-29952e89-075b-465d-a3bd-d5aa299fbc8b.png">
